@@ -18,8 +18,6 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-Test link to repository: [Test Repository](https://github.com/iccmr-quantum/QuTunes).
-
 1. Numbered
 2. List
 
@@ -29,6 +27,8 @@ Test link to repository: [Test Repository](https://github.com/iccmr-quantum/QuTu
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+Test link to repository: [Test Repository](https://github.com/iccmr-quantum/QuTunes).
 
 ### Jekyll Themes
 
