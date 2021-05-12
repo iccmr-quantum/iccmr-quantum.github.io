@@ -17,7 +17,7 @@ Syntax highlighted code block
 
 - Bulleted
 - List
-[Test Repository] (https://github.com/iccmr-quantum/QuTunes/).
+[Test Repository](https://github.com/iccmr-quantum/QuTunes/).
 
 1. Numbered
 2. List
