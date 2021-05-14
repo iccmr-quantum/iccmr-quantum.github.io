@@ -6,7 +6,7 @@
 
 ## Welcome to QuTunes Pages
 
-**QuTunes Project** creates open-source resources for making music with quantum computing, and making quantum computing with music.
+The **QuTunes Project** is aimed at creating open-source resources for making music with quantum computing, and making quantum computing with music.
 
 Quantum computing is a nascent technology, which is advancing rapidly. There is a long history of research into using computers for music since the 1950s. 
 
