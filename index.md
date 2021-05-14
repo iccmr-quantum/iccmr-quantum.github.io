@@ -42,4 +42,4 @@ QuTunes kick-started in the Spring of 2021 thanks to funding kindly provided by 
 - *On Interfacing the Brain with Quantum Computers: An Approach to Listen to the Logic of the Mind* [[arXiv:2101.03887]](https://arxiv.org/abs/2101.03887)
 
 ### Other articles
-- *The Arrival of Quantum Computer Music* [[Medium]](https://medium.com/the-riff/the-arrival-of-quantum-computer-music-ed1ce51a8b8f)
+- *The Arrival of Quantum Computer Music* (with sound exaples) [[Medium]](https://medium.com/the-riff/the-arrival-of-quantum-computer-music-ed1ce51a8b8f)
