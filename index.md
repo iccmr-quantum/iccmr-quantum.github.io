@@ -20,9 +20,10 @@ Hence, the QuTunes team believes that the time is ripe to start experimenting wi
 
 This page is a portal to programming tools, demonstrations, publications and other materials produced by the QuTunes team.
 
-The project kick-started in the Spring of 2021 thanks to funding kindly provided by the UK National Quantum Technologies Programme's [QCS Hub] (https://www.qcshub.org/).
+QuTunes kick-started in the Spring of 2021 thanks to funding kindly provided by the UK National Quantum Technologies Programme's [QCS Hub] (https://www.qcshub.org/). The project is run by Eduardo R. Miranda ([Interdisciplinary Centre for Computer Music Rearch](http://cmr.soc.plymouth.ac.uk/), University of Plymouth, UK) in partnership with Bob Coecke ([Cambridge Quantum Computing](https://cambridgequantum.com/), Oxford, UK).
 
-### Markdown
+### The Team
+- Eduardo R. Miranda (Interdisc
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
