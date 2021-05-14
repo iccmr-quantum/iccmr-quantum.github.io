@@ -23,36 +23,17 @@ This page is a portal to programming tools, demonstrations, publications and oth
 QuTunes kick-started in the Spring of 2021 thanks to funding kindly provided by the UK National Quantum Technologies Programme's [QCS Hub](https://www.qcshub.org/). The project is run by Eduardo R. Miranda ([Interdisciplinary Centre for Computer Music Rearch](http://cmr.soc.plymouth.ac.uk/), University of Plymouth, UK) in partnership with Bob Coecke ([Cambridge Quantum Computing](https://cambridgequantum.com/), Oxford, UK).
 
 ### The Team
-- Eduardo R. Miranda (Interdisc
+- Eduardo R. Miranda
+- Bob Coekce
+- Omar Costa Hamido
+- Paulo V. Itaborai
+- Suchitra Basak
+- Scott Oshir
+- Hector Miller-Bakewell  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Repositories
+- tbc
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-Test link to repository: [Test Repository](https://github.com/iccmr-quantum/QuTunes).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/iccmr-quantum/iccmr-quantum.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Papers
+- asd
+- asd
