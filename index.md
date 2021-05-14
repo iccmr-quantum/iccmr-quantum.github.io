@@ -22,6 +22,8 @@ This page is a portal to programming tools, demonstrations, publications and oth
 
 QuTunes kick-started in the Spring of 2021 thanks to funding kindly provided by the UK National Quantum Technologies Programme's [QCS Hub](https://www.qcshub.org/). The project is run by Eduardo R. Miranda [Interdisciplinary Centre for Computer Music Rearch](http://cmr.soc.plymouth.ac.uk/), University of Plymouth, UK) in partnership with Bob Coecke ([Cambridge Quantum Computing](https://cambridgequantum.com/), Oxford, UK).
 
+[[Press Release]](https://www.plymouth.ac.uk/news/researchers-to-investigate-quantum-computing-for-the-music-industry)
+
 ### The Team
 - Eduardo R. Miranda
 - Bob Coekce
@@ -40,5 +42,4 @@ QuTunes kick-started in the Spring of 2021 thanks to funding kindly provided by 
 - *On Interfacing the Brain with Quantum Computers: An Approach to Listen to the Logic of the Mind* [[arXiv:2101.03887]](https://arxiv.org/abs/2101.03887)
 
 ### Other articles
-- *Researchers to investigate Quantum Computing for the music industry* [[Press Release]](https://www.plymouth.ac.uk/news/researchers-to-investigate-quantum-computing-for-the-music-industry)
 - *The Arrival of Quantum Computer Music* [[Medium]](https://medium.com/the-riff/the-arrival-of-quantum-computer-music-ed1ce51a8b8f)
