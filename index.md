@@ -6,9 +6,18 @@
 
 ## Welcome to QuTunes Pages
 
-You can use the [editor on GitHub](https://github.com/iccmr-quantum/iccmr-quantum.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+**QuTunes Project** creates open-source resources for making music with quantum computing, and making quantum computing with music.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Quantum computing is a nascent technology, which is advancing rapidly. There is a long history of research into using computers for music since the 1950s. 
+
+Nowadays computers are essential for the music economy. Thus, is very likely that quantum computers will impact the music industry in the time to come. A new area of research and development is emerging: *Quantum Computer Music*.
+
+Historically, it is fair to compare state-of-the-art quantum computers with the computer mainframes of the 1950s.  It must have been hard for our forefathers of the 1950s to imagine how computers look like today. Likewise, it is hard to imagine how computers will be like in 2090. However, in contrast to 70 years ago, today’s musicians are generally conversant with computing technology. Hence the QuTunes team believes that the time is ripe to start experimenting with quantum computers in music.
+
+
+
+
+
 
 ### Markdown
 
