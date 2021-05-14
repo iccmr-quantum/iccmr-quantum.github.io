@@ -26,7 +26,7 @@ QuTunes kick-started in the Spring of 2021 thanks to funding kindly provided by 
 
 ### The Team
 - Eduardo R. Miranda
-- Bob Coekce
+- Bob Coecke
 - Omar Costa Hamido
 - Paulo V. Itaborai
 - Suchitra Basak
@@ -34,7 +34,7 @@ QuTunes kick-started in the Spring of 2021 thanks to funding kindly provided by 
 - Hector Miller-Bakewell  
 
 ### Repositories
-- tbc
+- [t.b.c.] https://github.com/iccmr-quantum/QuTunes
 
 ### Research Papers
 - *Creative Quantum Computing: Inverse FFT, Sound Synthesis, Adaptive Sequencing and Musical Composition* [[arXiv:2005.05832]](https://arxiv.org/abs/2005.05832)
