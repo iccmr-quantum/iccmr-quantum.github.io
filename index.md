@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to QuTunes Pages
 
 You can use the [editor on GitHub](https://github.com/iccmr-quantum/iccmr-quantum.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
