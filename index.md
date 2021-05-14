@@ -20,7 +20,7 @@ Hence, the QuTunes team believes that the time is ripe to start experimenting wi
 
 This page is a portal to programming tools, demonstrations, publications and other materials produced by the QuTunes team.
 
-QuTunes kick-started in the Spring of 2021 thanks to funding kindly provided by the UK National Quantum Technologies Programme's [QCS Hub](https://www.qcshub.org/). The project is run by Eduardo R. Miranda [Interdisciplinary Centre for Computer Music Rearch](http://cmr.soc.plymouth.ac.uk/), University of Plymouth, UK) in partnership with Bob Coecke ([Cambridge Quantum Computing](https://cambridgequantum.com/), Oxford, UK).
+QuTunes kick-started in the Spring of 2021 thanks to funding kindly provided by the UK National Quantum Technologies Programme's [QCS Hub](https://www.qcshub.org/). The project is run by Eduardo R. Miranda ([Interdisciplinary Centre for Computer Music Rearch](http://cmr.soc.plymouth.ac.uk/), University of Plymouth, UK) in partnership with Bob Coecke ([Cambridge Quantum Computing](https://cambridgequantum.com/), Oxford, UK).
 
 [[Press Release]](https://www.plymouth.ac.uk/news/researchers-to-investigate-quantum-computing-for-the-music-industry)
 
