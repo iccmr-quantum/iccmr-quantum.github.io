@@ -30,7 +30,7 @@ QuTunes kick-started in the Spring of 2021 thanks to funding kindly provided by 
 - Omar Costa Hamido
 - Paulo V. Itaborai
 - Suchitra Basak
-- Scott Oshir
+- Scott Oshiro
 - Hector Miller-Bakewell  
 
 ### Repositories
