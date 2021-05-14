@@ -1,3 +1,9 @@
+----------------
+
+![qutunes-logo-2](https://user-images.githubusercontent.com/46610354/118302954-c7091c80-b4dc-11eb-88d3-81d064d1d71c.png)
+
+----------------
+
 ## Welcome to QuTunes Pages
 
 You can use the [editor on GitHub](https://github.com/iccmr-quantum/iccmr-quantum.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
