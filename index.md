@@ -20,7 +20,7 @@ Hence, the QuTunes team believes that the time is ripe to start experimenting wi
 
 This page is a portal to programming tools, demonstrations, publications and other materials produced by the QuTunes team.
 
-QuTunes kick-started in the Spring of 2021 thanks to funding kindly provided by the UK National Quantum Technologies Programme's [QCS Hub](https://www.qcshub.org/). The project is run by Eduardo R. Miranda ([Interdisciplinary Centre for Computer Music Rearch](http://cmr.soc.plymouth.ac.uk/), University of Plymouth, UK) in partnership with Bob Coecke ([Cambridge Quantum Computing](https://cambridgequantum.com/), Oxford, UK).
+QuTunes kick-started in the Spring of 2021 thanks to funding kindly provided by the UK National Quantum Technologies Programme's [QCS Hub](https://www.qcshub.org/). The project is run by Eduardo R. Miranda [Interdisciplinary Centre for Computer Music Rearch](http://cmr.soc.plymouth.ac.uk/), University of Plymouth, UK) in partnership with Bob Coecke ([Cambridge Quantum Computing](https://cambridgequantum.com/), Oxford, UK).
 
 ### The Team
 - Eduardo R. Miranda
@@ -36,8 +36,9 @@ QuTunes kick-started in the Spring of 2021 thanks to funding kindly provided by 
 
 ### Research Papers
 - *Creative Quantum Computing: Inverse FFT, Sound Synthesis, Adaptive Sequencing and Musical Composition* [[arXiv:2005.05832]](https://arxiv.org/abs/2005.05832)
-- *Quantum Computer: Hello, Music!* [arXiv:2006.13849][(https://arxiv.org/abs/2006.13849)]
+- *Quantum Computer: Hello, Music!* [[arXiv:2006.13849]](https://arxiv.org/abs/2006.13849)
 - *On Interfacing the Brain with Quantum Computers: An Approach to Listen to the Logic of the Mind* [[arXiv:2101.03887]](https://arxiv.org/abs/2101.03887)
 
 ### Other articles
-
+- *Researchers to investigate Quantum Computing for the music industry* [[Press Release]](https://www.plymouth.ac.uk/news/researchers-to-investigate-quantum-computing-for-the-music-industry)
+- *The Arrival of Quantum Computer Music* [[Medium]](https://medium.com/the-riff/the-arrival-of-quantum-computer-music-ed1ce51a8b8f)
