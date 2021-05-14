@@ -4,7 +4,7 @@
 
 ----------------
 
-## Welcome to QuTunes Pages
+## Welcome to the QuTunes Project pages
 
 The **QuTunes Project** is aimed at creating open-source resources for making music with quantum computing, and making quantum computing with music.
 
