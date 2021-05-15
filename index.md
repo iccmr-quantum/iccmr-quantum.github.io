@@ -1,6 +1,6 @@
 ----------------
 
-![qutune-logo-2](https://user-images.githubusercontent.com/46610354/118353748-98805580-b55f-11eb-8371-e662720da202.png)
+![qutune-logo-2](https://user-images.githubusercontent.com/46610354/118358798-6e875d00-b578-11eb-8c06-47f40ca9bb03.png)
 
 ----------------
 
