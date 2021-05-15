@@ -1,12 +1,12 @@
 ----------------
 
-![qutunes-logo-2](https://user-images.githubusercontent.com/46610354/118302954-c7091c80-b4dc-11eb-88d3-81d064d1d71c.png)
+![qutune-logo-2](https://user-images.githubusercontent.com/46610354/118353748-98805580-b55f-11eb-8371-e662720da202.png)
 
 ----------------
 
-## Welcome to the QuTunes Project pages
+## Welcome to QuTune Project pages
 
-The **QuTunes Project** is aimed at creating resources for making music with quantum computing, and making quantum computing with music.
+The **QuTune Project** is aimed at creating resources for making music with quantum computing, and making quantum computing with music.
 
 Quantum computing is a nascent technology, which is advancing rapidly. 
 
@@ -16,11 +16,11 @@ A new area of research and development is emerging: *Quantum Computer Music*.
 
 Historically, it is fair to compare state-of-the-art (at the time of this writing, 2021) quantum computers with the computer mainframes of the 1950s.  It must have been hard for our forefathers of the 1950s to imagine how computers look like today. Likewise, it is hard to imagine how computers will be like in 2090. However, in contrast to 70 years ago, today’s musicians are generally conversant with computing technology. 
 
-Hence, the QuTunes team believes that the time is ripe to start experimenting with quantum computers in music.
+Hence, the time is ripe to start experimenting with quantum computers in music. Hence the QuTune project.
 
-This page is a portal to programming tools, demonstrations, publications and other materials produced by the QuTunes team.
+This page is a portal to programming tools, demonstrations, publications and other materials produced by the QuTune team.
 
-QuTunes kick-started in the Spring of 2021 thanks to funding kindly provided by the UK National Quantum Technologies Programme's [QCS Hub](https://www.qcshub.org/). The project is run by Eduardo R. Miranda ([Interdisciplinary Centre for Computer Music Rearch](http://cmr.soc.plymouth.ac.uk/), University of Plymouth, UK) in partnership with Bob Coecke ([Cambridge Quantum Computing](https://cambridgequantum.com/), Oxford, UK).
+QuTune kick-started in the Spring of 2021 thanks to funding kindly provided by the UK National Quantum Technologies Programme's [QCS Hub](https://www.qcshub.org/). The project is run by Eduardo R. Miranda ([Interdisciplinary Centre for Computer Music Rearch](http://cmr.soc.plymouth.ac.uk/), University of Plymouth, UK) in partnership with Bob Coecke ([Cambridge Quantum Computing](https://cambridgequantum.com/), Oxford, UK).
 
 [[Press Release]](https://www.plymouth.ac.uk/news/researchers-to-investigate-quantum-computing-for-the-music-industry)
 
