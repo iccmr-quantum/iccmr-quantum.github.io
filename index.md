@@ -10,7 +10,7 @@ The **QuTune Project** is aimed at creating resources for making music with quan
 
 Quantum computing is a nascent technology, which is advancing rapidly. 
 
-There is a long history of research into using computers for music since the 1950s. Nowadays computers are essential for the music economy. Thus, is very likely that quantum computers will impact the music industry in the time to come. 
+There is a long history of research into using computers for music since the 1950s. Nowadays computers are essential for the music economy. Thus, it is very likely that quantum computers will impact the music industry in the time to come. 
 
 A new area of research and development is emerging: *Quantum Computer Music*.
 
