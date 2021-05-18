@@ -14,9 +14,9 @@ There is a long history of research into using computers for music since the 195
 
 A new area of research and development is emerging: *Quantum Computer Music*.
 
-Historically, it is fair to compare state-of-the-art (i.e., at the time of this writing, 2021) quantum computers with the computer mainframes of the 1950s.  It must have been hard for our forefathers of the 1950s to imagine how computers look like today. Likewise, it is hard to imagine how computers will be like in 2090. However, in contrast to 70 years ago, today’s musicians are generally conversant with computing technology. 
+Historically, it is fair to compare state-of-the-art (i.e., at the time of this writing, 2021) quantum computers with the computer mainframes of the 1950s.  It must have been hard for our forefathers of the 1950s to predict how computers would evolve. For instance, a quote from an article in the magazine Popular Mechanics in 1949 reads "Computers in the future will weigh no more than 1.5 tons." And in 1977, Ken Olsen, co-founder of Digital Equipment Corporation allegedly said that "There is no reason for any individual to have a computer in his home." The wisdon of composers wanting to use computers to make music in the 1950s is remarkable!
 
-The time is ripe to start experimenting with quantum computers in music. Hence the *QuTune project*.
+Today, it is equally hard to imagine how computers will be like in 2090. In contrast to 70 years ago, however, today’s musicians are generally conversant with computing technology. So, the time is ripe to start experimenting with quantum computers in music. Hence the *QuTune project*.
 
 This page is a portal to programming tools, demonstrations, publications and other materials produced by the QuTune team.
 
