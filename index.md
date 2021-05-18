@@ -16,7 +16,7 @@ A new area of research and development is emerging: *Quantum Computer Music*.
 
 Historically, it is fair to compare state-of-the-art (at the time of this writing, 2021) quantum computers with the computer mainframes of the 1950s.  It must have been hard for our forefathers of the 1950s to imagine how computers look like today. Likewise, it is hard to imagine how computers will be like in 2090. However, in contrast to 70 years ago, today’s musicians are generally conversant with computing technology. 
 
-Hence, the time is ripe to start experimenting with quantum computers in music. Hence the QuTune project.
+The time is ripe to start experimenting with quantum computers in music. Hence the *QuTune project*.
 
 This page is a portal to programming tools, demonstrations, publications and other materials produced by the QuTune team.
 
