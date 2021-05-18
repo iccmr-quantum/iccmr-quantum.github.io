@@ -16,7 +16,7 @@ A new area of research and development is emerging: *Quantum Computer Music*.
 
 Historically, it is fair to compare state-of-the-art (i.e., at the time of this writing, 2021) quantum computers with the computer mainframes of the 1950s. And it must have been hard for our forefathers of the last century to predict how computers would evolve. For example, in 1977, Ken Olsen, co-founder of Digital Equipment Corporation (a major American company in the computer industry from the 1960s to the 1990s) allegedly said: "There is no reason for any individual to have a computer in his home". What a miss! 
 
-Today, it is equally hard to imagine how computers will be like in 2090. But in contrast to 70 years ago, however, today’s musicians are generally conversant with computing technology. So, the time is ripe for musicians to start experimenting with quantum computers in music and play an active role in their development. There is every reason to believe that quantum computers will do wonders for musical creativity. Hence the *QuTune project*.
+Today, it is equally hard to imagine how computers will be like in 2090. But in contrast to 70 years ago, however, today’s musicians are generally conversant with computing technology. So, the time is ripe for musicians to start experimenting with quantum computing in music, and play an active role in the development of this fascinating technology. There is every reason to believe that quantum computers will do wonders for musical creativity. Hence the *QuTune project*.
 
 This page is a portal to programming tools, demonstrations, publications and other materials produced by the QuTune team.
 
