@@ -36,6 +36,9 @@ QuTune kick-started in the Spring of 2021 thanks to funding kindly provided by t
 ### Repositories
 - [t.b.c.](https://github.com/iccmr-quantum/QuTunes)
 
+### Events
+- [1st International Symposium on Quantum Computing and Musical Creativity](https://iccmr-quantum.github.io/1st_isqcmc/)
+
 ### Research Papers
 - *Creative Quantum Computing: Inverse FFT, Sound Synthesis, Adaptive Sequencing and Musical Composition* [[arXiv:2005.05832]](https://arxiv.org/abs/2005.05832)
 - *Quantum Computer: Hello, Music!* [[arXiv:2006.13849]](https://arxiv.org/abs/2006.13849)
