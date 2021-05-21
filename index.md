@@ -20,7 +20,9 @@ Today, it is equally hard to imagine how computers will be like in 2090. But in 
 
 This page is a portal to programming tools, demonstrations, publications and other materials produced by the QuTune team.
 
-QuTune kick-started in the Spring of 2021 thanks to funding kindly provided by the UK National Quantum Technologies Programme's [QCS Hub](https://www.qcshub.org/). The project is run by Eduardo R. Miranda ([Interdisciplinary Centre for Computer Music Rearch (ICCMR)](http://cmr.soc.plymouth.ac.uk/), University of Plymouth, UK) in partnership with Bob Coecke ([Cambridge Quantum Computing](https://cambridgequantum.com/), Oxford, UK). The ICCMR now offers [opportunities for post-graduate research](https://www.plymouth.ac.uk/research/iccmr) in Quantum Computer Music through masters and Ph.D. programmes. 
+QuTune kick-started in the Spring of 2021 thanks to funding kindly provided by the UK National Quantum Technologies Programme's [QCS Hub](https://www.qcshub.org/). The project is run by Eduardo R. Miranda ([Interdisciplinary Centre for Computer Music Rearch (ICCMR)](http://cmr.soc.plymouth.ac.uk/), University of Plymouth, UK) in partnership with Bob Coecke ([Cambridge Quantum Computing](https://cambridgequantum.com/), Oxford, UK). 
+
+The ICCMR offers [opportunities for post-graduate research](https://www.plymouth.ac.uk/research/iccmr) in Quantum Computer Music through masters and Ph.D. programmes. 
 
 [[Press Release]](https://www.plymouth.ac.uk/news/researchers-to-investigate-quantum-computing-for-the-music-industry)
 
