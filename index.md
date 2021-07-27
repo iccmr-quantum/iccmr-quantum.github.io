@@ -36,7 +36,9 @@ The ICCMR offers [opportunities for post-graduate research](https://www.plymouth
 - Hector Miller-Bakewell  
 
 ### Repositories
-- [t.b.c.](https://github.com/iccmr-quantum/QuTunes)
+- [Partitioned Quantum Cellular Automata (PQCA)](https://github.com/iccmr-quantum/pqca)
+- [PQCA Tutorials: Getting stated and rendering music] (https://github.com/iccmr-quantum/PQCA_Tutorial/tree/main/PQCA%20Music%20Tutorials)
+- [Generating Musical Scales] (https://github.com/iccmr-quantum/musical-scales)
 
 ### Events
 - [1st International Symposium on Quantum Computing and Musical Creativity](https://iccmr-quantum.github.io/1st_isqcmc/)
