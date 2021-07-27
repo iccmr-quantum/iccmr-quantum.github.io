@@ -38,7 +38,6 @@ The ICCMR offers [opportunities for post-graduate research](https://www.plymouth
 ### Repositories
 - [Partitioned Quantum Cellular Automata (PQCA) (pre-release)](https://github.com/iccmr-quantum/pqca)
 - [PQCA Tutorials: Getting stated and rendering music](https://github.com/iccmr-quantum/PQCA_Tutorial/tree/main/PQCA%20Music%20Tutorials)
-
 - [Generating Musical Scales](https://github.com/iccmr-quantum/musical-scales)
 
 ### Events
