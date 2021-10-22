@@ -39,7 +39,7 @@ The ICCMR offers [opportunities for post-graduate research](https://www.plymouth
 - [Partitioned Quantum Cellular Automata (PQCA) (pre-release)](https://github.com/iccmr-quantum/pqca)
 - [PQCA Tutorials: Getting stated and rendering music](https://github.com/iccmr-quantum/PQCA_Tutorial/tree/main/PQCA%20Music%20Tutorials)
 - [Generating Musical Scales](https://github.com/iccmr-quantum/musical-scales)
-- [Demonstrations of Quantum Walks and Basak-Miranda Algorithm](https://github.com/iccmr-quantum/Miranda_Basak_Demos)
+- [Demonstrations of Musical Quantum Walks and the Basak-Miranda Algorithm](https://github.com/iccmr-quantum/Miranda_Basak_Demos)
 
 ### Events
 - [1st International Symposium on Quantum Computing and Musical Creativity](https://iccmr-quantum.github.io/1st_isqcmc/)
