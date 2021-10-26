@@ -48,7 +48,7 @@ The ICCMR offers [opportunities for post-graduate research](https://www.plymouth
 - *Creative Quantum Computing: Inverse FFT, Sound Synthesis, Adaptive Sequencing and Musical Composition* [[arXiv:2005.05832]](https://arxiv.org/abs/2005.05832)
 - *Quantum Computer: Hello, Music!* [[arXiv:2006.13849]](https://arxiv.org/abs/2006.13849)
 - *On Interfacing the Brain with Quantum Computers: An Approach to Listen to the Logic of the Mind* [[arXiv:2101.03887]](https://arxiv.org/abs/2101.03887)
-- *Quantum Computer Music: Foundations and Initial Experiments* [[arxiv.org/abs/2110.12408]](https://arxiv.org/abs/2110.12408)
+- *Quantum Computer Music: Foundations and Initial Experiments* [[arXiv:2110.124088]](https://arxiv.org/abs/2110.12408)
 
 ### Other articles
 - *The Arrival of Quantum Computer Music* (with sound exaples) [[Medium]](https://medium.com/the-riff/the-arrival-of-quantum-computer-music-ed1ce51a8b8f)
