@@ -46,11 +46,14 @@ The ICCMR offers [opportunities for post-graduate research](https://www.plymouth
 - [1st International Symposium on Quantum Computing and Musical Creativity](https://iccmr-quantum.github.io/1st_isqcmc/)
 
 ### Research Papers
-- *Creative Quantum Computing: Inverse FFT, Sound Synthesis, Adaptive Sequencing and Musical Composition* [[arXiv:2005.05832]](https://arxiv.org/abs/2005.05832)
-- *Quantum Computer: Hello, Music!* [[arXiv:2006.13849]](https://arxiv.org/abs/2006.13849)
-- *On Interfacing the Brain with Quantum Computers: An Approach to Listen to the Logic of the Mind* [[arXiv:2101.03887]](https://arxiv.org/abs/2101.03887)
+- *A Quantum Natural Language Processing Approach to Musical Intelligence* [[arXiv:2111.06741]](https://arxiv.org/abs/2111.06741)
 - *Quantum Computer Music: Foundations and Initial Experiments* [[arXiv:2110.124088]](https://arxiv.org/abs/2110.12408)
+- *Quantum Computer: Hello, Music!* [[arXiv:2006.13849]](https://arxiv.org/abs/2006.13849)
+- *Creative Quantum Computing: Inverse FFT, Sound Synthesis, Adaptive Sequencing and Musical Composition* [[arXiv:2005.05832]](https://arxiv.org/abs/2005.05832)
+- *On Interfacing the Brain with Quantum Computers: An Approach to Listen to the Logic of the Mind* [[arXiv:2101.03887]](https://arxiv.org/abs/2101.03887)
+
 
 ### Other articles
+- *Presenting the 1st International Symposium on Quantum Computing and Musical Creativity* [[Medium / Qiskit Blog]](https://medium.com/qiskit/presenting-the-1st-international-symposium-on-quantum-computing-and-musical-creativity-87a3301b9726)
 - *The Arrival of Quantum Computer Music* (with sound exaples) [[Medium]](https://medium.com/the-riff/the-arrival-of-quantum-computer-music-ed1ce51a8b8f)
 - *I’m a Musician, and Here’s Why I’m Learning Quantum Computing* [[Medium]](https://medium.com/qiskit/im-a-musician-and-here-s-why-i-m-learning-quantum-computing-db28c2aba7ac)
