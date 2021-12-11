@@ -50,7 +50,7 @@ The ICCMR offers [opportunities for post-graduate research](https://www.plymouth
 - [1st International Symposium on Quantum Computing and Musical Creativity](https://iccmr-quantum.github.io/1st_isqcmc/)
 
 ### Research Papers
-- *A Quantum Natural Language Processing Approach to Musical Intelligence* [[arXiv:2111.06741]](https://arxiv.org/abs/2111.06741)
+- *A Quantum Natural Language Processing Approach to Musical Intelligence* [[arXiv:2111.06741v2]](https://arxiv.org/abs/2111.06741)
 - *Quantum Computer Music: Foundations and Initial Experiments* [[arXiv:2110.124088]](https://arxiv.org/abs/2110.12408)
 - *Quantum Computer: Hello, Music!* [[arXiv:2006.13849]](https://arxiv.org/abs/2006.13849)
 - *Creative Quantum Computing: Inverse FFT, Sound Synthesis, Adaptive Sequencing and Musical Composition* [[arXiv:2005.05832]](https://arxiv.org/abs/2005.05832)
