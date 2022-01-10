@@ -41,7 +41,7 @@ The ICCMR offers [opportunities for post-graduate research](https://www.plymouth
 - [Generating Musical Scales](https://github.com/iccmr-quantum/musical-scales)
 - [Demonstrations of Musical Quantum Walks and the Basak-Miranda Algorithm](https://github.com/iccmr-quantum/Miranda_Basak_Demos)
 - [OSC-Qasm - An OSC Python interface for executing Qasm code](https://github.com/iccmr-quantum/OSC-Qasm)
-- [The Quantum Computer Music Tutorial](https://github.com/iccmr-quantum/The-Quantum-Computer-Music-Tutorial)
+- [Intro to Quantum Computer Music](https://github.com/iccmr-quantum/Intro-to-Quantum-Computer-Music)
 - [TTT - Transition Table Tools](https://github.com/iccmr-quantum/TTT)
 - [Code and resources for Quanthoven](https://github.com/CQCL/Quanthoven)
 
