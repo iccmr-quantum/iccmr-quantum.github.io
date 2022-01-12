@@ -36,15 +36,14 @@ The ICCMR offers [opportunities for post-graduate research](https://www.plymouth
 - Hector Miller-Bakewell  
 
 ### Repositories: Tools, Demos and Materials
+- [QAC Tool for Max and Tutorial](https://github.com/iccmr-quantum/Intro-to-Quantum-Computer-Music)
+- [TTT - Transition Table Tools](https://github.com/iccmr-quantum/TTT)
+- [Code and resources for Quanthoven](https://github.com/CQCL/Quanthoven)
 - [Partitioned Quantum Cellular Automata (PQCA) (pre-release)](https://github.com/iccmr-quantum/pqca)
 - [PQCA Tutorials: Getting stated and rendering music](https://github.com/iccmr-quantum/PQCA_Tutorial/tree/main/PQCA%20Music%20Tutorials)
 - [Generating Musical Scales](https://github.com/iccmr-quantum/musical-scales)
 - [Demonstrations of Musical Quantum Walks and the Basak-Miranda Algorithm](https://github.com/iccmr-quantum/Miranda_Basak_Demos)
 - [OSC-Qasm - An OSC Python interface for executing Qasm code](https://github.com/iccmr-quantum/OSC-Qasm)
-- [Intro to Quantum Computer Music](https://github.com/iccmr-quantum/Intro-to-Quantum-Computer-Music)
-- [TTT - Transition Table Tools](https://github.com/iccmr-quantum/TTT)
-- [Code and resources for Quanthoven](https://github.com/CQCL/Quanthoven)
-
 
 ### Events
 - [1st International Symposium on Quantum Computing and Musical Creativity](https://iccmr-quantum.github.io/1st_isqcmc/)
