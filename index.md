@@ -36,7 +36,7 @@ The ICCMR offers [opportunities for post-graduate research](https://www.plymouth
 - Hector Miller-Bakewell  
 
 ### Repositories: Tools, Demos and Materials
-- [The QAC Toolkit for Quantum Computing in Max and Tutorial](https://github.com/iccmr-quantum/Intro-to-Quantum-Computer-Music)
+- [The QAC Toolkit for Quantum Computing in Max and Tutorials](https://github.com/iccmr-quantum/Intro-to-Quantum-Computer-Music)
 - [TTT - Transition Table Tools (Max)](https://github.com/iccmr-quantum/TTT)
 - [OSC-Qasm - An OSC Python interface for executing Qasm code](https://github.com/iccmr-quantum/OSC-Qasm)
 - [Code and resources for Quanthoven](https://github.com/CQCL/Quanthoven)
@@ -46,7 +46,7 @@ The ICCMR offers [opportunities for post-graduate research](https://www.plymouth
 - [Demonstrations of Musical Quantum Walks and the Basak-Miranda Algorithm](https://github.com/iccmr-quantum/Miranda_Basak_Demos)
 
 ### Events
-- [1st International Symposium on Quantum Computing and Musical Creativity](https://iccmr-quantum.github.io/1st_isqcmc/)
+- [1st International Symposium on Quantum Computing and Musical Creativity (Videos of presentations now available)](https://iccmr-quantum.github.io/1st_isqcmc/)
 
 ### Research Papers
 - *A Quantum Natural Language Processing Approach to Musical Intelligence* [[arXiv:2111.06741v2]](https://arxiv.org/abs/2111.06741)
