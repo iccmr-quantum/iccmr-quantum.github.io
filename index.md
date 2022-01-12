@@ -36,7 +36,7 @@ The ICCMR offers [opportunities for post-graduate research](https://www.plymouth
 - Hector Miller-Bakewell  
 
 ### Repositories: Tools, Demos and Materials
-- [QAC Tool for Max and Tutorial](https://github.com/iccmr-quantum/Intro-to-Quantum-Computer-Music)
+- [The QAC Toolkit for Quantum Computing in Max and Tutorial](https://github.com/iccmr-quantum/Intro-to-Quantum-Computer-Music)
 - [TTT - Transition Table Tools](https://github.com/iccmr-quantum/TTT)
 - [Code and resources for Quanthoven](https://github.com/CQCL/Quanthoven)
 - [Partitioned Quantum Cellular Automata (PQCA) (pre-release)](https://github.com/iccmr-quantum/pqca)
