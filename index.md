@@ -2,6 +2,7 @@
 
 <!--![qutune-logo-2](https://user-images.githubusercontent.com/46610354/118358798-6e875d00-b578-11eb-8c06-47f40ca9bb03.png)-->
 ![qutune-logo-new-2](https://user-images.githubusercontent.com/28213905/170691904-c979f326-e1fd-4a4c-8e19-d61ab17461ca.png)
+
 ----------------
 
 ## Welcome to QuTune Project pages
