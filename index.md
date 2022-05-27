@@ -48,7 +48,7 @@ The ICCMR offers [opportunities for post-graduate research](https://www.plymouth
 - [Demonstrations of Musical Quantum Walks and the Basak-Miranda Algorithm](https://github.com/iccmr-quantum/Miranda_Basak_Demos)
 
 ### Events
-- [1st International Symposium on Quantum Computing and Musical Creativity](https://iccmr-quantum.github.io/1st_isqcmc/) Videos of presentations now available.
+- [1st International Symposium on Quantum Computing and Musical Creativity](https://iccmr-quantum.github.io/1st_isqcmc/) Videos of presentations now available [here](https://www.youtube.com/channel/UCK7I8hK4f9nq152iA94nqTA).
 
 ### Books
 - [Quantum Computing in the Arts and Humanities - An Introduction to Core Concepts, Theory and Applications. 1 Ed. 2022. Springer.](https://link.springer.com/book/10.1007/978-3-030-95538-0)
