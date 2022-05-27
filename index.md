@@ -1,7 +1,7 @@
 ----------------
 
-![qutune-logo-2](https://user-images.githubusercontent.com/46610354/118358798-6e875d00-b578-11eb-8c06-47f40ca9bb03.png)
-
+<!--![qutune-logo-2](https://user-images.githubusercontent.com/46610354/118358798-6e875d00-b578-11eb-8c06-47f40ca9bb03.png)-->
+![qutune-logo-new-2](https://user-images.githubusercontent.com/28213905/170691904-c979f326-e1fd-4a4c-8e19-d61ab17461ca.png)
 ----------------
 
 ## Welcome to QuTune Project pages
@@ -33,7 +33,8 @@ The ICCMR offers [opportunities for post-graduate research](https://www.plymouth
 - Paulo V. Itaborai
 - Suchitra Basak
 - Scott Oshiro
-- Hector Miller-Bakewell  
+- Hector Miller-Bakewell
+- Peter James Thomas
 
 ### Repositories: Tools, Demos and Materials
 - [The QAC Toolkit for Quantum Computing in Max and Tutorials](https://github.com/iccmr-quantum/Intro-to-Quantum-Computer-Music)
@@ -47,6 +48,9 @@ The ICCMR offers [opportunities for post-graduate research](https://www.plymouth
 
 ### Events
 - [1st International Symposium on Quantum Computing and Musical Creativity](https://iccmr-quantum.github.io/1st_isqcmc/) Videos of presentations now available.
+
+### Books
+- [Quantum Computing in the Arts and Humanities - An Introduction to Core Concepts, Theory and Applications. 1 Ed. 2022. Springer.](https://link.springer.com/book/10.1007/978-3-030-95538-0)
 
 ### Research Papers
 - *A Quantum Natural Language Processing Approach to Musical Intelligence* [[arXiv:2111.06741v2]](https://arxiv.org/abs/2111.06741)
