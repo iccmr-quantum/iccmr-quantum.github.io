@@ -52,6 +52,7 @@ The ICCMR offers [opportunities for post-graduate research](https://www.plymouth
 
 ### Books
 - [Quantum Computing in the Arts and Humanities - An Introduction to Core Concepts, Theory and Applications. 1 Ed. 2022. Springer.](https://link.springer.com/book/10.1007/978-3-030-95538-0)
+- Quantum Computer Music: Foundations, Methods and Advanced Concepts. 1 Ed. [forthcoming late 2022]. Springer.
 
 ### Research Papers
 - *A Quantum Natural Language Processing Approach to Musical Intelligence* [[arXiv:2111.06741v2]](https://arxiv.org/abs/2111.06741)
