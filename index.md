@@ -41,7 +41,7 @@ The ICCMR offers [opportunities for post-graduate research](https://www.plymouth
 - [The QAC Toolkit for Quantum Computing in Max and Tutorials](https://github.com/iccmr-quantum/Intro-to-Quantum-Computer-Music)
 - [TTT - Transition Table Tools (Max)](https://github.com/iccmr-quantum/TTT)
 - [OSC-Qasm - An OSC Python interface for executing Qasm code](https://github.com/iccmr-quantum/OSC-Qasm)
-- [Code and resources for ###Quanthoven###](https://github.com/CQCL/Quanthoven)
+- [Code and resources for Quanthoven, music with QNLP experiment](https://github.com/CQCL/Quanthoven)
 - [Partitioned Quantum Cellular Automata (PQCA)](https://github.com/iccmr-quantum/pqca)
 - [PQCA Tutorials: Getting stated and rendering music](https://github.com/iccmr-quantum/PQCA_Tutorial/tree/main/PQCA%20Music%20Tutorials)
 - [Generating Musical Scales](https://github.com/iccmr-quantum/musical-scales)
