@@ -46,6 +46,7 @@ The ICCMR offers [opportunities for post-graduate research](https://www.plymouth
 - [PQCA Tutorials: Getting stated and rendering music](https://github.com/iccmr-quantum/PQCA_Tutorial/tree/main/PQCA%20Music%20Tutorials)
 - [Generating Musical Scales](https://github.com/iccmr-quantum/musical-scales)
 - [Demonstrations of Musical Quantum Walks and the Basak-Miranda Algorithm](https://github.com/iccmr-quantum/Miranda_Basak_Demos)
+- - [Code and resources for Teaching Qubits to Sing project]([https://github.com/iccmr-quantum/Intro-to-Quantum-Computer-Music](https://github.com/iccmr-quantum/QuSing))
 
 ### Events
 - [1st International Symposium on Quantum Computing and Musical Creativity](https://iccmr-quantum.github.io/1st_isqcmc/) Videos of presentations now available [here](https://www.youtube.com/channel/UCK7I8hK4f9nq152iA94nqTA).
