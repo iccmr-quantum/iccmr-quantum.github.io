@@ -52,7 +52,8 @@ The ICCMR offers [opportunities for post-graduate research](https://www.plymouth
 - [1st International Symposium on Quantum Computing and Musical Creativity](https://iccmr-quantum.github.io/1st_isqcmc/) Videos of presentations now available [here](https://www.youtube.com/channel/UCK7I8hK4f9nq152iA94nqTA).
 
 ### Books
-- [Quantum Computing in the Arts and Humanities - An Introduction to Core Concepts, Theory and Applications. 1 Ed. 2022. Springer.](https://link.springer.com/book/10.1007/978-3-030-95538-0)
+- [Quantum Computer Music - Foundations, Methods and Advanced Concepts. 2022(b). Springer](https://link.springer.com/book/10.1007/978-3-031-13909-3)
+- [Quantum Computing in the Arts and Humanities - An Introduction to Core Concepts, Theory and Applications. 2022(a). Springer.](https://link.springer.com/book/10.1007/978-3-030-95538-0)
 
 ### Research Papers
 - *A Quantum Natural Language Processing Approach to Musical Intelligence* [[arXiv:2111.06741v2]](https://arxiv.org/abs/2111.06741)
