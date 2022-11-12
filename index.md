@@ -21,9 +21,9 @@ It is equally hard nowadays to imagine how computers will be like in 2090. But i
 
 This page is a portal to programming tools, demonstrations, publications and other materials produced by the QuTune team.
 
-QuTune kick-started in the Spring of 2021 thanks to a 12 months long funding kindly provided by the UK National Quantum Technologies Programme's [QCS Hub](https://www.qcshub.org/) to Eduardo R. Miranda ([Interdisciplinary Centre for Computer Music Rearch (ICCMR)](http://cmr.soc.plymouth.ac.uk/), University of Plymouth, UK) and Bob Coecke ([Quantinuum](https://www.quantinuum.com/), Oxford, UK). 
+QuTune kick-started in the Spring of 2021 thanks to a 12 months long grant awarded by the UK National Quantum Technologies Programme's [QCS Hub](https://www.qcshub.org/) to Eduardo R. Miranda ([Interdisciplinary Centre for Computer Music Rearch (ICCMR)](http://cmr.soc.plymouth.ac.uk/), University of Plymouth, UK) and Bob Coecke ([Quantinuum](https://www.quantinuum.com/), Oxford, UK). 
 
-The funding is now gone, and it has not been renewed. But the University of Plymouth team is carrying on the activites and forging collaborations with a number of partners to continue developing and promoting research in this area.
+The funding is now long gone, and it has not been renewed. But the University of Plymouth team is carrying on the activites and forging collaborations with a number of partners to continue developing and promoting research in this area.
 
 The ICCMR offers [opportunities for post-graduate research](https://www.plymouth.ac.uk/research/iccmr) in Quantum Computer Music through masters and Ph.D. programmes. 
 
@@ -38,6 +38,7 @@ The ICCMR offers [opportunities for post-graduate research](https://www.plymouth
 - Scott Oshiro
 - Hector Miller-Bakewell
 - Peter James Thomas
+- Brian N. Siegelwax
 
 ### Repositories: Tools, Demos and Materials
 - [The QAC Toolkit for Quantum Computing in Max and Tutorials](https://github.com/iccmr-quantum/Intro-to-Quantum-Computer-Music)
@@ -67,6 +68,7 @@ The ICCMR offers [opportunities for post-graduate research](https://www.plymouth
 
 
 ### Other articles
+- *Behind The Scenes: My First Paper* [[Medium]] (https://bsiegelwax.medium.com/behind-the-scenes-my-first-paper-16e454b30d17)
 - *Presenting the 1st International Symposium on Quantum Computing and Musical Creativity* [[Medium / Qiskit Blog]](https://medium.com/qiskit/presenting-the-1st-international-symposium-on-quantum-computing-and-musical-creativity-87a3301b9726)
 - *The Arrival of Quantum Computer Music* (with sound exaples) [[Medium]](https://medium.com/the-riff/the-arrival-of-quantum-computer-music-ed1ce51a8b8f)
 - *I’m a Musician, and Here’s Why I’m Learning Quantum Computing* [[Medium]](https://medium.com/qiskit/im-a-musician-and-here-s-why-i-m-learning-quantum-computing-db28c2aba7ac)
