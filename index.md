@@ -68,7 +68,8 @@ The ICCMR offers [opportunities for post-graduate research](https://www.plymouth
 
 
 ### Other articles
-- *Behind The Scenes: My First Paper* [[Medium]](https://bsiegelwax.medium.com/behind-the-scenes-my-first-paper-16e454b30d17)
+- *Behind The Scenes: My First Paper* [[Medium / Qiskit Blog]](https://bsiegelwax.medium.com/behind-the-scenes-my-first-paper-16e454b30d17)
+- •Introducing Sharp Scale: A Series of Generative Quantum Art Pieces* [[Medium]](https://medium.com/qiskit/introducing-sharp-scale-a-series-of-generative-quantum-art-pieces-709f58fb73ef)
 - *Presenting the 1st International Symposium on Quantum Computing and Musical Creativity* [[Medium / Qiskit Blog]](https://medium.com/qiskit/presenting-the-1st-international-symposium-on-quantum-computing-and-musical-creativity-87a3301b9726)
 - *The Arrival of Quantum Computer Music* (with sound exaples) [[Medium]](https://medium.com/the-riff/the-arrival-of-quantum-computer-music-ed1ce51a8b8f)
 - *I’m a Musician, and Here’s Why I’m Learning Quantum Computing* [[Medium]](https://medium.com/qiskit/im-a-musician-and-here-s-why-i-m-learning-quantum-computing-db28c2aba7ac)
