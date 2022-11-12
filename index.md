@@ -21,7 +21,9 @@ It is equally hard nowadays to imagine how computers will be like in 2090. But i
 
 This page is a portal to programming tools, demonstrations, publications and other materials produced by the QuTune team.
 
-QuTune kick-started in the Spring of 2021 thanks to funding kindly provided by the UK National Quantum Technologies Programme's [QCS Hub](https://www.qcshub.org/). The project is run by Eduardo R. Miranda ([Interdisciplinary Centre for Computer Music Rearch (ICCMR)](http://cmr.soc.plymouth.ac.uk/), University of Plymouth, UK) in partnership with Bob Coecke ([Quantinuum](https://www.quantinuum.com/), Oxford, UK). 
+QuTune kick-started in the Spring of 2021 thanks to a 12 months long funding kindly provided by the UK National Quantum Technologies Programme's [QCS Hub](https://www.qcshub.org/) to Eduardo R. Miranda ([Interdisciplinary Centre for Computer Music Rearch (ICCMR)](http://cmr.soc.plymouth.ac.uk/), University of Plymouth, UK) and Bob Coecke ([Quantinuum](https://www.quantinuum.com/), Oxford, UK). 
+
+The funding is now gone, and it has not been renewed. But the University of Plymouth team is carrying on the activites and forging collaborations with a number of partners to continue developing and promoting research in this area.
 
 The ICCMR offers [opportunities for post-graduate research](https://www.plymouth.ac.uk/research/iccmr) in Quantum Computer Music through masters and Ph.D. programmes. 
 
@@ -56,6 +58,7 @@ The ICCMR offers [opportunities for post-graduate research](https://www.plymouth
 - [Quantum Computing in the Arts and Humanities - An Introduction to Core Concepts, Theory and Applications. 2022(a). Springer.](https://link.springer.com/book/10.1007/978-3-030-95538-0)
 
 ### Research Papers
+- *Teaching Qubits to Sing: Mission Impossible?* [[arXiv:2207.08225v3]](https://arxiv.org/abs/2207.08225)
 - *A Quantum Natural Language Processing Approach to Musical Intelligence* [[arXiv:2111.06741v2]](https://arxiv.org/abs/2111.06741)
 - *Quantum Computer Music: Foundations and Initial Experiments* [[arXiv:2110.124088]](https://arxiv.org/abs/2110.12408)
 - *Quantum Computer: Hello, Music!* [[arXiv:2006.13849]](https://arxiv.org/abs/2006.13849)
