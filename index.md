@@ -39,6 +39,7 @@ The ICCMR offers [opportunities for post-graduate research](https://www.plymouth
 - Hector Miller-Bakewell
 - Peter James Thomas
 - Brian N. Siegelwax
+- Hari Vignesh Shaji
 
 ### Repositories: Tools, Demos and Materials
 - [The QAC Toolkit for Quantum Computing in Max and Tutorials](https://github.com/iccmr-quantum/Intro-to-Quantum-Computer-Music)
