@@ -42,6 +42,7 @@ The ICCMR offers [opportunities for post-graduate research](https://www.plymouth
 - Hari Vignesh Shaji
 
 ### Repositories: Tools, Demos and Materials
+- [`quantumaudio`: A Python package (beta) for Quantum Representations of Audio, encoding and decoding](https://pypi.org/project/quantumaudio/)
 - [The QAC Toolkit for Quantum Computing in Max and Tutorials](https://github.com/iccmr-quantum/Intro-to-Quantum-Computer-Music)
 - [TTT - Transition Table Tools (Max)](https://github.com/iccmr-quantum/TTT)
 - [OSC-Qasm - An OSC Python interface for executing Qasm code](https://github.com/iccmr-quantum/OSC-Qasm)
@@ -53,20 +54,26 @@ The ICCMR offers [opportunities for post-graduate research](https://www.plymouth
 - [Code and resources for Teaching Qubits to Sing project](https://github.com/iccmr-quantum/QuSing)
 
 ### Events
-- [1st International Symposium on Quantum Computing and Musical Creativity](https://iccmr-quantum.github.io/1st_isqcmc/) Videos of presentations now available [here](https://www.youtube.com/channel/UCK7I8hK4f9nq152iA94nqTA).
+- 2nd International Symposium on Quantum Computing and Musical Creativity (2023) - Coming Soon
+- [Sounding Qubits: Quantum Computing and Musical Creativity - Living in a Quantum State, Goethe-Institut London](https://www.goethe.de/prj/lqs/en/eve/sou.html) (Dec 2022). Book launch (Quantum Computer Music) + performances. Documentary video [here](https://www.youtube.com/watch?v=wL0RlYIl-QM)
+- [1st International Symposium on Quantum Computing and Musical Creativity](https://iccmr-quantum.github.io/1st_isqcmc/) (Nov 2021). Videos of presentations now available [here](https://www.youtube.com/channel/UCK7I8hK4f9nq152iA94nqTA).
 
 ### Books
 - [Quantum Computer Music - Foundations, Methods and Advanced Concepts. 2022(b). Springer](https://link.springer.com/book/10.1007/978-3-031-13909-3)
 - [Quantum Computing in the Arts and Humanities - An Introduction to Core Concepts, Theory and Applications. 2022(a). Springer.](https://link.springer.com/book/10.1007/978-3-030-95538-0)
 
 ### Research Papers
+- *Quantum Representations of Sound: From Mechanical Waves to Quantum Circuits* [[arXiv:2301.01595]](https://arxiv.org/abs/2301.01595)
 - *Teaching Qubits to Sing: Mission Impossible?* [[arXiv:2207.08225v3]](https://arxiv.org/abs/2207.08225)
 - *A Quantum Natural Language Processing Approach to Musical Intelligence* [[arXiv:2111.06741v2]](https://arxiv.org/abs/2111.06741)
 - *Quantum Computer Music: Foundations and Initial Experiments* [[arXiv:2110.124088]](https://arxiv.org/abs/2110.12408)
 - *Quantum Computer: Hello, Music!* [[arXiv:2006.13849]](https://arxiv.org/abs/2006.13849)
+- *OSC-Qasm: Interfacing Music Software with Quantum Computing* [[arXiv:2212.01615v2]](https://arxiv.org/abs/2212.01615)
 - *Creative Quantum Computing: Inverse FFT, Sound Synthesis, Adaptive Sequencing and Musical Composition* [[arXiv:2005.05832]](https://arxiv.org/abs/2005.05832)
 - *On Interfacing the Brain with Quantum Computers: An Approach to Listen to the Logic of the Mind* [[arXiv:2101.03887]](https://arxiv.org/abs/2101.03887)
 
+### Music and Artistic Outputs
+- [_Spinnings_ - Q1Synth Trio](https://www.soundclick.com/music/songInfo.cfm?songID=14529239)
 
 ### Other articles
 - *Behind The Scenes: My First Paper* [[Medium]](https://bsiegelwax.medium.com/behind-the-scenes-my-first-paper-16e454b30d17)
