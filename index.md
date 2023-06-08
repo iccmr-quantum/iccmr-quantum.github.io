@@ -43,7 +43,7 @@ The ICCMR offers [opportunities for post-graduate research](https://www.plymouth
 
 ### Repositories: Tools, Demos and Materials
 - [`quantumaudio`: A Python package (beta) for Quantum Representations of Audio, encoding and decoding](https://pypi.org/project/quantumaudio/)
-- [The QAC Toolkit for Quantum Computing in Max and Tutorials](https://github.com/iccmr-quantum/Intro-to-Quantum-Computer-Music)
+- [Tutorials on The QAC Toolkit for Quantum Computing in Max](https://github.com/iccmr-quantum/Intro-to-Quantum-Computer-Music)
 - [TTT - Transition Table Tools (Max)](https://github.com/iccmr-quantum/TTT)
 - [OSC-Qasm - An OSC Python interface for executing Qasm code](https://github.com/iccmr-quantum/OSC-Qasm)
 - [Code and resources for Quanthoven, music with QNLP experiment](https://github.com/CQCL/Quanthoven)
@@ -54,7 +54,7 @@ The ICCMR offers [opportunities for post-graduate research](https://www.plymouth
 - [Code and resources for Teaching Qubits to Sing project](https://github.com/iccmr-quantum/QuSing)
 
 ### Events
-- 2nd International Symposium on Quantum Computing and Musical Creativity (2023) - Coming Soon
+- [2nd International Symposium on Quantum Computing and Musical Creativity](https://indico.desy.de/event/38609/) (Oct 2023).
 - [Sounding Qubits: Quantum Computing and Musical Creativity - Living in a Quantum State, Goethe-Institut London](https://www.goethe.de/prj/lqs/en/eve/sou.html) (Dec 2022). Book launch (Quantum Computer Music) + performances. Documentary video [here](https://www.youtube.com/watch?v=wL0RlYIl-QM)
 - [1st International Symposium on Quantum Computing and Musical Creativity](https://iccmr-quantum.github.io/1st_isqcmc/) (Nov 2021). Videos of presentations now available [here](https://www.youtube.com/channel/UCK7I8hK4f9nq152iA94nqTA).
 
