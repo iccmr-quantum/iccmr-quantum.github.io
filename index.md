@@ -40,7 +40,6 @@ The University of Plymouth now runs the [ Ph.D. Quantum Computing in the Arts, M
 - Scott Oshiro
 - Hector Miller-Bakewell
 - Brian N. Siegelwax
-- Suchitra Basak
 - Maria Aguado
 - Karl Jansen
   
