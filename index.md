@@ -60,8 +60,11 @@ The University of Plymouth now runs the [ Ph.D. Quantum Computing in the Arts, M
 
 ### Events
 - [2nd International Symposium on Quantum Computing and Musical Creativity](https://indico.desy.de/event/38609/) (Oct 2023).
-- [Sounding Qubits: Quantum Computing and Musical Creativity - Living in a Quantum State, Goethe-Institut London](https://www.goethe.de/prj/lqs/en/eve/sou.html) (Dec 2022). Book launch (Quantum Computer Music) + performances. Documentary video [here](https://www.youtube.com/watch?v=wL0RlYIl-QM)
+- [Sounding Qubits: Quantum Computing and Musical Creativity - Living in a Quantum State, Goethe-Institut London](https://www.goethe.de/prj/lqs/en/eve/sou.html) (Dec 2022). Book launch (**Quantum Computer Music**) + performances. Documentary video [here](https://www.youtube.com/watch?v=wL0RlYIl-QM)
 - [1st International Symposium on Quantum Computing and Musical Creativity](https://iccmr-quantum.github.io/1st_isqcmc/) (Nov 2021). Videos of presentations now available [here](https://www.youtube.com/channel/UCK7I8hK4f9nq152iA94nqTA).
+
+![Screenshot 2024-01-08 at 15 14 47](https://github.com/iccmr-quantum/iccmr-quantum.github.io/assets/46610354/a5c48c0d-7a4b-450f-b5dc-b2c080edb363)
+
 
 ### Books
 - [Handbook of Artificial Intelligence for Music. 2021. Springer.](https://link.springer.com/book/10.1007/978-3-030-72116-9)
@@ -71,6 +74,11 @@ The University of Plymouth now runs the [ Ph.D. Quantum Computing in the Arts, M
  ![Screenshot 2024-01-08 at 14 48 14](https://github.com/iccmr-quantum/iccmr-quantum.github.io/assets/46610354/23f0369d-5eb1-4352-a29a-8c00db09644f)
 
 ### Research Papers
+- *Variational Quantum Harmonizer: Generating Chord Progressions and Other Sonification Methods with the VQE Algorithm* [[arXiv:2309.12254]](https://arxiv.org/abs/2309.12254)
+- *Q1Synth: A Quantum Musical Instrument* [[Applied Sciences]](https://www.mdpi.com/2076-3417/13/4/2386)
+- *Generative Music with Partitioned Quantum Cellular Automata* [[Applied Sciences]](https://www.mdpi.com/2076-3417/13/4/2401)
+- *Quantum Brain Networks: a Perspective* [[arXiv:2106.12295 ]](https://arxiv.org/abs/2106.12295)
+- *An Approach to Interfacing the Brain with Quantum Computers: Practical Steps and Caveats* [[International Journal of Unconventional Computing]](https://www.oldcitypublishing.com/wp-content/uploads/2022/07/IJUCv17n3p159-171Miranda.pdf)
 - *Quantum Representations of Sound: From Mechanical Waves to Quantum Circuits* [[arXiv:2301.01595]](https://arxiv.org/abs/2301.01595)
 - *Teaching Qubits to Sing: Mission Impossible?* [[arXiv:2207.08225v3]](https://arxiv.org/abs/2207.08225)
 - *A Quantum Natural Language Processing Approach to Musical Intelligence* [[arXiv:2111.06741v2]](https://arxiv.org/abs/2111.06741)
