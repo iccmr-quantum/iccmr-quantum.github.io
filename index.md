@@ -75,6 +75,7 @@ The University of Plymouth now runs the [ Ph.D. Quantum Computing in the Arts, M
 
 ### Research Papers
 - *Variational Quantum Harmonizer: Generating Chord Progressions and Other Sonification Methods with the VQE Algorithm* [[arXiv:2309.12254]](https://arxiv.org/abs/2309.12254)
+-  *Developing Quantum Reservoir Computing as Machine Learning of Music* [[ISQCMC Berlin Proceedings]](https://zenodo.org/records/10206712)
 - *Q1Synth: A Quantum Musical Instrument* [[Applied Sciences]](https://www.mdpi.com/2076-3417/13/4/2386)
 - *Generative Music with Partitioned Quantum Cellular Automata* [[Applied Sciences]](https://www.mdpi.com/2076-3417/13/4/2401)
 - *Quantum Brain Networks: a Perspective* [[arXiv:2106.12295 ]](https://arxiv.org/abs/2106.12295)
@@ -92,6 +93,7 @@ The University of Plymouth now runs the [ Ph.D. Quantum Computing in the Arts, M
 - [_Spinnings_ - Q1Synth Trio](https://www.soundclick.com/music/songInfo.cfm?songID=14529239)
 
 ### Other articles
+- *Quantum Computer Music. What the heck?* [[CTM Magazine]](https://www.ctm-festival.de/magazine/quantum-computer-music-what-the-heck)
 - *Behind The Scenes: My First Paper* [[Medium]](https://bsiegelwax.medium.com/behind-the-scenes-my-first-paper-16e454b30d17)
 - *Introducing Sharp Scale: A Series of Generative Quantum Art Pieces* [[Medium / Qiskit Blog]](https://medium.com/qiskit/introducing-sharp-scale-a-series-of-generative-quantum-art-pieces-709f58fb73ef)
 - *Presenting the 1st International Symposium on Quantum Computing and Musical Creativity* [[Medium / Qiskit Blog]](https://medium.com/qiskit/presenting-the-1st-international-symposium-on-quantum-computing-and-musical-creativity-87a3301b9726)
