@@ -21,14 +21,11 @@ It is equally hard nowadays to imagine how computers will be like in 2090. But i
 
 This page is a portal to programming tools, demonstrations, publications and other materials produced by the QuTune team.
 
-QuTune kick-started in the Spring of 2021 thanks to a 12-month-long grant awarded by the UK National Quantum Technologies Programme's [QCS Hub](https://www.qcshub.org/) to Eduardo R. Miranda ([Interdisciplinary Centre for Computer Music Research (ICCMR)](http://cmr.soc.plymouth.ac.uk/), University of Plymouth, UK) and Bob Coecke, then a professor at the University of Oxford, UK). 
+QuTune kick-started in the Spring of 2021 thanks to a 12-month-long grant awarded by the UK National Quantum Technologies Programme's [QCS Hub](https://www.qcshub.org/) to Eduardo R. Miranda ([Interdisciplinary Centre for Computer Music Research (ICCMR)](http://cmr.soc.plymouth.ac.uk/), University of Plymouth, UK) and Bob Coecke, then a professor at the University of Oxford, UK). [[Press Release]](https://www.plymouth.ac.uk/news/researchers-to-investigate-quantum-computing-for-the-music-industry)
 
 The funding is now long gone. Nevertheless, the University of Plymouth team is carrying on the activities and forging collaborations with several partners to continue developing and promoting research in this area. Notably, we have forged strong partnerships with [ DESY's Center for Quantum Technology and Applications ](https://quantum-zeuthen.desy.de) (Zeuthen, Germany), [ Quantinuum ](https://www.quantinuum.com) (UK) and  [ IQM ](https://www.meetiqm.com) (Finland).
 
 The University of Plymouth now runs the [ Ph.D. Quantum Computing in the Arts, Music and Humanities ](https://www.plymouth.ac.uk/courses/postgraduate/phd-quantum-computing-in-the-arts-music-and-humanities). More information about this exciting new programme and how to apply, please [ consult the website ](https://www.plymouth.ac.uk/courses/postgraduate/phd-quantum-computing-in-the-arts-music-and-humanities). 
-
-[[Press Release]](https://www.plymouth.ac.uk/news/researchers-to-investigate-quantum-computing-for-the-music-industry)
-
 
 ### The ICCMR QuTune Team
 - Eduardo R. Miranda
