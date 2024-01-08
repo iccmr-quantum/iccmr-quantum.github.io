@@ -5,7 +5,7 @@
 
 ----------------
 
-## Welcome to QuTune Project pages
+## Welcome to QuTune Project page
 
 The **QuTune Project** is aimed at creating resources for making music with quantum computing, and making quantum computing with music.
 
@@ -13,8 +13,8 @@ Quantum computing is a nascent technology, which is advancing rapidly.
 
 There is a long history of research into using computers for music since the 1950s. Nowadays computers are essential for the music economy. Thus, it is very likely that **quantum computers** will be used in the music industry in the time to come. 
 
-A new area of research and development is emerging: *Quantum Computer Music*.
-
+A new area of research and development is emerging: *Quantum Computer Music*. For an introduction to the field, please read the article [ *Quantum Computer Music. What the heck?* ](https://www.ctm-festival.de/magazine/quantum-computer-music-what-the-heck)  published in CTM Magazine in Berlin.
+ 
 Historically, it is fair to compare state-of-the-art (i.e., at the time of this writing, 2021) quantum computers with the computer mainframes of the 1950s. And it must have been hard for our forefathers of the last century to predict how computers would evolve. For example, in 1977, Ken Olsen, co-founder of Digital Equipment Corporation (a major American company in the computer industry from the 1960s to the 1990s) allegedly said: "There is no reason for any individual to have a computer in his home". Yet, we wear computers on the wrist today. 
 
 It is equally hard nowadays to imagine how computers will be like in 2090. But in contrast to 70 years ago, however, today’s musicians are generally conversant with computers and programming. So, the time is ripe for musicians to start experimenting with quantum computing in music, and play an active role in the development of this fascinating technology. There is every reason to believe that quantum computers will do wonders for musical creativity. Hence the *QuTune project*.
@@ -25,9 +25,10 @@ QuTune kick-started in the Spring of 2021 thanks to a 12-month-long grant awarde
 
 The funding is now long gone. Nevertheless, the University of Plymouth team is carrying on the activities and forging collaborations with several partners to continue developing and promoting research in this area. Notably, we have forged strong partnerships with [ DESY's Center for Quantum Technology and Applications ](https://quantum-zeuthen.desy.de) (Zeuthen, Germany), [ Quantinuum ](https://www.quantinuum.com) (UK) and  [ IQM ](https://www.meetiqm.com) (Finland).
 
-The ICCMR offers [opportunities for post-graduate research](https://www.plymouth.ac.uk/research/iccmr) in Quantum Computer Music through masters and Ph.D. programmes. 
+The University of Plymouth now runs the [ Ph.D. Quantum Computing in the Arts, Music and Humanities ](https://www.plymouth.ac.uk/courses/postgraduate/phd-quantum-computing-in-the-arts-music-and-humanities). More information about this exciting new programme and how to apply, please [ consult the website ](https://www.plymouth.ac.uk/courses/postgraduate/phd-quantum-computing-in-the-arts-music-and-humanities). 
 
 [[Press Release]](https://www.plymouth.ac.uk/news/researchers-to-investigate-quantum-computing-for-the-music-industry)
+
 
 ### The ICCMR QuTune Team
 - Eduardo R. Miranda
@@ -48,6 +49,8 @@ The ICCMR offers [opportunities for post-graduate research](https://www.plymouth
   
 ### Repositories: Tools, Demos and Materials
 - [`quantumaudio`: A Python package (beta) for Quantum Representations of Audio, encoding and decoding](https://pypi.org/project/quantumaudio/)
+- [Variation Quantum Harmoniser - Sonification tools for VQE](https://github.com/iccmr-quantum/VQH)
+- [Q1Synth - One Qubit Synthesiser](https://github.com/iccmr-quantum/q1synth)
 - [Tutorials on The QAC Toolkit for Quantum Computing in Max](https://github.com/iccmr-quantum/Intro-to-Quantum-Computer-Music)
 - [TTT - Transition Table Tools (Max)](https://github.com/iccmr-quantum/TTT)
 - [OSC-Qasm - An OSC Python interface for executing Qasm code](https://github.com/iccmr-quantum/OSC-Qasm)
