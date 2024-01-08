@@ -88,6 +88,10 @@ The University of Plymouth now runs the [ Ph.D. Quantum Computing in the Arts, M
 - *Creative Quantum Computing: Inverse FFT, Sound Synthesis, Adaptive Sequencing and Musical Composition* [[arXiv:2005.05832]](https://arxiv.org/abs/2005.05832)
 - *On Interfacing the Brain with Quantum Computers: An Approach to Listen to the Logic of the Mind* [[arXiv:2101.03887]](https://arxiv.org/abs/2101.03887)
 
+### Academic Thesis
+
+- [*Towards Quantum Computing for Audio and Music Expression*](https://pearl.plymouth.ac.uk/handle/10026.1/21781), Paulo V. Itaborai, Res.M. Computer Music Thesis. 2023 University of Plymouth, UK.
+
 ### Non-Academic Articles
 - *Quantum Computer Music. What the heck?* [[CTM Magazine]](https://www.ctm-festival.de/magazine/quantum-computer-music-what-the-heck)
 - *Behind The Scenes: My First Paper* [[Medium]](https://bsiegelwax.medium.com/behind-the-scenes-my-first-paper-16e454b30d17)
@@ -97,7 +101,9 @@ The University of Plymouth now runs the [ Ph.D. Quantum Computing in the Arts, M
 - *I’m a Musician, and Here’s Why I’m Learning Quantum Computing* [[Medium]](https://medium.com/qiskit/im-a-musician-and-here-s-why-i-m-learning-quantum-computing-db28c2aba7ac)
 
 ### Music and Artistic Outputs
-- [_Spinnings_ - Q1Synth Trio](https://www.soundclick.com/music/songInfo.cfm?songID=14529239)
+- Audio: [_Spinnings_ - Q1Synth Trio ](https://www.soundclick.com/music/songInfo.cfm?songID=14529239)
+- Audio: [ Qubism - London Sinfonietta ](https://soundcloud.com/qutune/sets/qubism/s-SqrCSslI7xT?si=ba9182052d4d441cbc4bf65ef5f9c743&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
+- Video: [ Zeno - Bass Clarinet and Electronics ](https://www.youtube.com/watch?v=bHUJSBT5u9g)
 
 ### About our Work: Articles, Media and Interviews
 
