@@ -67,8 +67,11 @@ The University of Plymouth now runs the [ Ph.D. Quantum Computing in the Arts, M
 - [1st International Symposium on Quantum Computing and Musical Creativity](https://iccmr-quantum.github.io/1st_isqcmc/) (Nov 2021). Videos of presentations now available [here](https://www.youtube.com/channel/UCK7I8hK4f9nq152iA94nqTA).
 
 ### Books
-- [Quantum Computer Music - Foundations, Methods and Advanced Concepts. 2022(b). Springer](https://link.springer.com/book/10.1007/978-3-031-13909-3)
-- [Quantum Computing in the Arts and Humanities - An Introduction to Core Concepts, Theory and Applications. 2022(a). Springer.](https://link.springer.com/book/10.1007/978-3-030-95538-0)
+- [Handbook of Artificial Intelligence for Music. 2021. Springer.](https://link.springer.com/book/10.1007/978-3-030-72116-9)
+- [Quantum Computer Music - Foundations, Methods and Advanced Concepts. 2022. Springer](https://link.springer.com/book/10.1007/978-3-031-13909-3)
+- [Quantum Computing in the Arts and Humanities - An Introduction to Core Concepts, Theory and Applications. 2022. Springer.](https://link.springer.com/book/10.1007/978-3-030-95538-0)
+
+ ![Screenshot 2024-01-08 at 14 48 14](https://github.com/iccmr-quantum/iccmr-quantum.github.io/assets/46610354/23f0369d-5eb1-4352-a29a-8c00db09644f)
 
 ### Research Papers
 - *Quantum Representations of Sound: From Mechanical Waves to Quantum Circuits* [[arXiv:2301.01595]](https://arxiv.org/abs/2301.01595)
