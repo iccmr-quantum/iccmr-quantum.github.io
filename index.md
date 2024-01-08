@@ -23,13 +23,14 @@ This page is a portal to programming tools, demonstrations, publications and oth
 
 QuTune kick-started in the Spring of 2021 thanks to a 12 months long grant awarded by the UK National Quantum Technologies Programme's [QCS Hub](https://www.qcshub.org/) to Eduardo R. Miranda ([Interdisciplinary Centre for Computer Music Rearch (ICCMR)](http://cmr.soc.plymouth.ac.uk/), University of Plymouth, UK) and Bob Coecke ([Quantinuum](https://www.quantinuum.com/), Oxford, UK). 
 
-The funding is now long gone, and it has not been renewed. But the University of Plymouth team is carrying on the activites and forging collaborations with a number of partners to continue developing and promoting research in this area.
+The funding is now long gone. Nevertheless, the University of Plymouth team is carrying on the activities and forging collaborations with several partners to continue developing and promoting research in this area. Notably, we have forged strong partnerships with [ DESY's Center for Quantum Technology and Applications ](https://quantum-zeuthen.desy.de) (Zeuthen, Germany), [ Quantinuum ](https://www.quantinuum.com) (UK) and  [ IQM ]
+(https://www.meetiqm.com) (Finland).
 
 The ICCMR offers [opportunities for post-graduate research](https://www.plymouth.ac.uk/research/iccmr) in Quantum Computer Music through masters and Ph.D. programmes. 
 
 [[Press Release]](https://www.plymouth.ac.uk/news/researchers-to-investigate-quantum-computing-for-the-music-industry)
 
-### The ICCMR Team
+### The ICCMR QuTune Team
 - Eduardo R. Miranda
 - Paulo V. Itaborai
 - Peter James Thomas
@@ -43,6 +44,7 @@ The ICCMR offers [opportunities for post-graduate research](https://www.plymouth
 - Hector Miller-Bakewell
 - Brian N. Siegelwax
 - Suchitra Basak
+- Maria Aguado
   
 ### Repositories: Tools, Demos and Materials
 - [`quantumaudio`: A Python package (beta) for Quantum Representations of Audio, encoding and decoding](https://pypi.org/project/quantumaudio/)
