@@ -59,9 +59,9 @@ The University of Plymouth now runs the [ Ph.D. Quantum Computing in the Arts, M
 - [Code and resources for Teaching Qubits to Sing project](https://github.com/iccmr-quantum/QuSing)
 
 ### Events
-- [2nd International Symposium on Quantum Computing and Musical Creativity](https://indico.desy.de/event/38609/) (Oct 2023).
-- [Sounding Qubits: Quantum Computing and Musical Creativity - Living in a Quantum State, Goethe-Institut London](https://www.goethe.de/prj/lqs/en/eve/sou.html) (Dec 2022). Book launch (**Quantum Computer Music**) + performances. Documentary video [here](https://www.youtube.com/watch?v=wL0RlYIl-QM)
-- [1st International Symposium on Quantum Computing and Musical Creativity](https://iccmr-quantum.github.io/1st_isqcmc/) (Nov 2021). Videos of presentations now available [here](https://www.youtube.com/channel/UCK7I8hK4f9nq152iA94nqTA).
+- [2nd International Symposium on Quantum Computing and Musical Creativity](https://indico.desy.de/event/38609/) (Oct 2023). [[**Proceedings**]](https://isqcmc.github.io/Proceedings)
+- [Sounding Qubits: Quantum Computing and Musical Creativity - Living in a Quantum State, Goethe-Institut London](https://www.goethe.de/prj/lqs/en/eve/sou.html) (Dec 2022). Book launch (**Quantum Computer Music**) + performances. Documentary video [[here]](https://www.youtube.com/watch?v=wL0RlYIl-QM)
+- [1st International Symposium on Quantum Computing and Musical Creativity](https://iccmr-quantum.github.io/1st_isqcmc/) (Nov 2021). Videos of presentations now available [[here]](https://www.youtube.com/channel/UCK7I8hK4f9nq152iA94nqTA).
 
 ![Screenshot 2024-01-08 at 15 14 47](https://github.com/iccmr-quantum/iccmr-quantum.github.io/assets/46610354/a5c48c0d-7a4b-450f-b5dc-b2c080edb363)
 
