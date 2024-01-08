@@ -29,18 +29,21 @@ The ICCMR offers [opportunities for post-graduate research](https://www.plymouth
 
 [[Press Release]](https://www.plymouth.ac.uk/news/researchers-to-investigate-quantum-computing-for-the-music-industry)
 
-### The Team
+### The ICCMR Team
 - Eduardo R. Miranda
+- Paulo V. Itaborai
+- Peter James Thomas
+- Hari Vignesh Shaji
+- Colin Harrington
+
+### External Collaborators
 - Bob Coecke
 - Omar Costa Hamido
-- Paulo V. Itaborai
-- Suchitra Basak
 - Scott Oshiro
 - Hector Miller-Bakewell
-- Peter James Thomas
 - Brian N. Siegelwax
-- Hari Vignesh Shaji
-
+- Suchitra Basak
+  
 ### Repositories: Tools, Demos and Materials
 - [`quantumaudio`: A Python package (beta) for Quantum Representations of Audio, encoding and decoding](https://pypi.org/project/quantumaudio/)
 - [Tutorials on The QAC Toolkit for Quantum Computing in Max](https://github.com/iccmr-quantum/Intro-to-Quantum-Computer-Music)
