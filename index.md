@@ -100,11 +100,23 @@ The University of Plymouth now runs the [ Ph.D. Quantum Computing in the Arts, M
 - *The Arrival of Quantum Computer Music* (with sound exaples) [[Medium]](https://medium.com/the-riff/the-arrival-of-quantum-computer-music-ed1ce51a8b8f)
 - *I’m a Musician, and Here’s Why I’m Learning Quantum Computing* [[Medium]](https://medium.com/qiskit/im-a-musician-and-here-s-why-i-m-learning-quantum-computing-db28c2aba7ac)
 
-### Music and Artistic Outputs
+### Music, Videos, Artistic Outputs
 - Audio: [_Spinnings_ - Q1Synth Trio ](https://www.soundclick.com/music/songInfo.cfm?songID=14529239)
-- Audio: [ Qubism - London Sinfonietta ](https://soundcloud.com/qutune/sets/qubism/s-SqrCSslI7xT?si=ba9182052d4d441cbc4bf65ef5f9c743&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
-- Video: [ Zeno - Bass Clarinet and Electronics ](https://www.youtube.com/watch?v=bHUJSBT5u9g)
+- Audio: [ _Qubism_ - London Sinfonietta ](https://soundcloud.com/qutune/sets/qubism/s-SqrCSslI7xT?si=ba9182052d4d441cbc4bf65ef5f9c743&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
+- Video: [ _Zeno_ - Bass Clarinet and Electronics ](https://www.youtube.com/watch?v=bHUJSBT5u9g)
+- Video: QuTunes Band [Lecture-Concert](https://www.youtube.com/watch?v=PMUNIBs7T04&list=PLLnA8B3ZULyHtPZUaIBUtMy3xtxq_uC_I&index=1) at ICFO Quantum Sound Symposium in Barcelona, 2023.
+- Video: [ _Multiverse Symphony_ ](https://mediathek.hfmt-hamburg.de/l2go/-/get/v/779) Komposition für Ensemble und Quantencomputer von Eduardo Miranda. Lecture and concert at the inauguration of Ligeti Center, Hamburg, 2023.
+- Concert: [ *Many Musics, Quantum Worlds* ](https://iklectikartlab.com/many-musics-quantum-worlds/), IKLECTIK, London, UK, May 2023.
+- Concert: [ *Multiverse Symphony* ](https://ligetizentrum.hfmt-hamburg.de/index.php/multiverse-symphony/), Ligeti Center, Hamburgh, Germany, June 2023.
+- Concert: [ *Sound Unwrapped* - London Sinfonietta ](https://londonsinfonietta.org.uk/whats-on/turning-points-sound-unwrapped), King's Place, London, UK, June 2023.
+- Concert: [ *Komplementārās pretrunas Festival* ](https://www.swrl.space), Riga, Latvia, 2023.
+- Concert: [ *Quantum Tunes: Mind and Wiggle* ](https://www.digital-future.berlin/en/events/events/news/konzert-quantum-tunes-mind-and-wiggle/?tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=7545a49c4d50c1b3b605edcbea66c0d4), Einstein Center Digigal Futures, Berlin, Germany, 2023.
+- Concert: [ *Wave Dysfunction* ](https://www.ctm-festival.de/festival-2024/programme/schedule/event/quantum-computing), Radialsystem, CTM Festival, Berlin, Germany.
 
 ### About our Work: Articles, Media and Interviews
+- Video: [ Couch to Concert - London Sinfonietta ](https://www.youtube.com/watch?v=tBJE6z7cpMo). Interview to Jamz Supernova (DJ BBC 6Music,1Xtra), 2023.
+- Magazine Article: [ Can we use quantum computers to make music? ](https://physicsworld.com/a/can-we-use-quantum-computers-to-make-music/), by Philip Ball, in _Physics World_, 2023.
+- Radio & Transcript: [ Latvia Radio 3 (Latvijas Sabiedriskie Mediji)](https://klasika.lsm.lv/lv/raksts/diena-sakusies/komponists-eduardo-reks-miranda-patlaban-lielako-problemu-sagada.a183996/](https://www.lsm.lv/raksts/kultura/muzika/16.11.2023-ka-skanes-kvantu-datoru-muzika-saruna-ar-komponistu-eduardo-reku-mirandu.a531948/)https://www.lsm.lv/raksts/kultura/muzika/16.11.2023-ka-skanes-kvantu-datoru-muzika-saruna-ar-komponistu-eduardo-reku-mirandu.a531948/). Interview on AI and quantum computing in music, 2023.
+
 
 
