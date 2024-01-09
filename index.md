@@ -110,7 +110,7 @@ The University of Plymouth now runs the [ Ph.D. Quantum Computing in the Arts, M
 - Concert: [ *Multiverse Symphony* ](https://ligetizentrum.hfmt-hamburg.de/index.php/multiverse-symphony/), Ligeti Center, Hamburgh, Germany, June 2023.
 - Concert: [ *Sound Unwrapped* - London Sinfonietta ](https://londonsinfonietta.org.uk/whats-on/turning-points-sound-unwrapped), King's Place, London, UK, June 2023.
 - Concert: [ *Komplementārās pretrunas Festival* ](https://www.swrl.space), Riga, Latvia, 2023.
-- Concert: [ *Quantum Tunes: Mind and Wiggle* ](https://www.digital-future.berlin/en/events/events/news/konzert-quantum-tunes-mind-and-wiggle/?tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=7545a49c4d50c1b3b605edcbea66c0d4), Einstein Center Digigal Futures, Berlin, Germany, 2023.
+- Concert: [ *Quantum Tunes: Mind and Wiggle* ](https://www.digital-future.berlin/en/events/events/news/konzert-quantum-tunes-mind-and-wiggle/?tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=7545a49c4d50c1b3b605edcbea66c0d4), ECDF, Berlin, Germany, 2023.
 - Concert: [ *Wave Dysfunction* ](https://www.ctm-festival.de/festival-2024/programme/schedule/event/quantum-computing), Radialsystem, CTM Festival, Berlin, Germany.
 
 ### About our Work: Articles, Media and Interviews
