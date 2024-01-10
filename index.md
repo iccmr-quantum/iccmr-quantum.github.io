@@ -97,7 +97,7 @@ The University of Plymouth now runs the [ Ph.D. Quantum Computing in the Arts, M
 - *Behind The Scenes: My First Paper* [[Medium]](https://bsiegelwax.medium.com/behind-the-scenes-my-first-paper-16e454b30d17)
 - *Introducing Sharp Scale: A Series of Generative Quantum Art Pieces* [[Medium / Qiskit Blog]](https://medium.com/qiskit/introducing-sharp-scale-a-series-of-generative-quantum-art-pieces-709f58fb73ef)
 - *Presenting the 1st International Symposium on Quantum Computing and Musical Creativity* [[Medium / Qiskit Blog]](https://medium.com/qiskit/presenting-the-1st-international-symposium-on-quantum-computing-and-musical-creativity-87a3301b9726)
-- *The Arrival of Quantum Computer Music* (with sound exaples) [[Medium]](https://medium.com/the-riff/the-arrival-of-quantum-computer-music-ed1ce51a8b8f)
+- *The Arrival of Quantum Computer Music* (with sound examples) [[Medium]](https://medium.com/the-riff/the-arrival-of-quantum-computer-music-ed1ce51a8b8f)
 - *I’m a Musician, and Here’s Why I’m Learning Quantum Computing* [[Medium]](https://medium.com/qiskit/im-a-musician-and-here-s-why-i-m-learning-quantum-computing-db28c2aba7ac)
 
 ### Music, Videos, Artistic Outputs
@@ -106,6 +106,7 @@ The University of Plymouth now runs the [ Ph.D. Quantum Computing in the Arts, M
 - Video: [ _Zeno_ - Bass Clarinet and Electronics ](https://www.youtube.com/watch?v=bHUJSBT5u9g)
 - Video: QuTunes Band [Lecture-Concert](https://www.youtube.com/watch?v=PMUNIBs7T04&list=PLLnA8B3ZULyHtPZUaIBUtMy3xtxq_uC_I&index=1) at ICFO Quantum Sound Symposium in Barcelona, 2023.
 - Video: [ _Multiverse Symphony_ ](https://mediathek.hfmt-hamburg.de/l2go/-/get/v/779) Komposition für Ensemble und Quantencomputer von Eduardo Miranda. Lecture and concert at the inauguration of Ligeti Center, Hamburg, 2023.
+- Video: [ Dependent Origination ](https://www.youtube.com/watch?v=Mg_Mo3zvn10) - Cephas Teom and Paulo Itaborai, IKLECTIK performance, London.
 - Concert: [ *Many Musics, Quantum Worlds* ](https://iklectikartlab.com/many-musics-quantum-worlds/), IKLECTIK, London, UK, May 2023.
 - Concert: [ *Multiverse Symphony* ](https://ligetizentrum.hfmt-hamburg.de/index.php/multiverse-symphony/), Ligeti Center, Hamburgh, Germany, June 2023.
 - Concert: [ *Sound Unwrapped* - London Sinfonietta ](https://londonsinfonietta.org.uk/whats-on/turning-points-sound-unwrapped), King's Place, London, UK, June 2023.
